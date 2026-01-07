@@ -8,8 +8,8 @@
 ---
 
 ## 🧠 About Me
-AI & Data Science engineering student passionate about building **real-world intelligent systems** and exploring **future technologies**.  
-Focused on strong **ML foundations, problem-solving, and impactful projects**.
+AI & Data Science engineering student focused on building **real-world intelligent systems** and exploring **future technologies**.  
+Currently strengthening **Machine Learning, problem-solving, and project development**.
 
 ---
 
@@ -17,22 +17,22 @@ Focused on strong **ML foundations, problem-solving, and impactful projects**.
 
 <table align="center">
 <tr>
-<td align="center"><b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+
+<td align="center" width="33%">
+<h3>👨‍💻 Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" /><br><br>
 </td>
 
-<td align="center"><b>AI / Data</b><br><br>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" /><br>
-NumPy • Pandas • scikit-learn
+<td align="center" width="33%">
+<h3>🌐 Web & Backend</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" /><br><br>
 </td>
 
-<td align="center"><b>Web / Backend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" />
+<td align="center" width="33%">
+<h3>🗄️ Database & Tools</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" /><br><br>
 </td>
 
-<td align="center"><b>DB & Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
-</td>
 </tr>
 </table>
 
@@ -48,9 +48,9 @@ NumPy • Pandas • scikit-learn
 
 ## 🌱 Currently Working On
 • Data Structures & Algorithms  
-• Machine Learning core concepts  
+• Machine Learning foundations  
 • AI-powered real-world projects  
-• Quantum & Cyber Security fundamentals  
+• Quantum & Cyber Security basics  
 
 ---
 
