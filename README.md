@@ -2,83 +2,58 @@
 <h3 align="center">B.Tech Student | Artificial Intelligence & Data Science</h3>
 
 <p align="center">
-🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech Explorer  
-</p>
-
-<p align="center">
-<a href="https://github.com/your-username">
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</a>
+🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech  
 </p>
 
 ---
 
-## 🧠 About Me  
-I’m an engineering student specializing in **Artificial Intelligence & Data Science**, focused on building **real-world, future-oriented projects**.  
-I enjoy working on **AI systems, hackathons, and experimental tech projects** while continuously improving my problem-solving and development skills.
+## 🧠 About Me
+AI & Data Science engineering student passionate about building **real-world intelligent systems** and exploring **future technologies**.  
+Focused on strong **ML foundations, problem-solving, and impactful projects**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-### 👨‍💻 Languages  
-<p>
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b><br><br>
 <img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
-</p>
+</td>
 
-### 🤖 AI / Data Science  
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
+<td align="center"><b>AI / Data</b><br><br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" /><br>
+NumPy • Pandas • scikit-learn
+</td>
 
-• NumPy • Pandas • scikit-learn • Machine Learning  
-
-### 🌐 Web & Backend  
-<p>
+<td align="center"><b>Web / Backend</b><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" />
-</p>
+</td>
 
-### 🗄️ Database & Tools  
-<p>
+<td align="center"><b>DB & Tools</b><br><br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects  
-
-🔹 **Academic Drift Detector**  
-Early prediction of academic performance decline using ML  
-`Python • Machine Learning • Flask • MongoDB`
-
-🔹 **Society Management System**  
-Society records, maintenance tracking & feedback system  
-`Java • OOP • Database`
-
-🔹 **SkillSight (Hackathon Project)**  
-AI-powered skill verification with proctoring concept  
-`Python • AI • Computer Vision • Web`
-
-🔹 **ML Practice Models**  
-Student marks prediction & data analysis projects  
+## 🚀 Projects
+🔹 **Academic Drift Detector** – ML-based academic performance prediction  
+🔹 **Society Management System** – Records, maintenance & feedback system  
+🔹 **SkillSight (Hackathon)** – AI skill verification platform  
+🔹 **ML Practice Models** – Prediction & data analysis projects  
 
 ---
 
-## 🌱 Currently Focusing On  
-✔ Data Structures & Algorithms  
-✔ Strong Machine Learning foundations  
-✔ AI-powered real-world systems  
-✔ Quantum Computing & Cyber Security basics  
-
----
-
-## 🏆 Activities  
-• Hackathon participant  
-• Continuous project building  
-• Preparing for internships & advanced competitions  
+## 🌱 Currently Working On
+• Data Structures & Algorithms  
+• Machine Learning core concepts  
+• AI-powered real-world projects  
+• Quantum & Cyber Security fundamentals  
 
 ---
 
 <p align="center">
-⭐ If you find my work interesting, explore my repositories and connect with me.
+⭐ Explore my repositories and feel free to connect.
 </p>
