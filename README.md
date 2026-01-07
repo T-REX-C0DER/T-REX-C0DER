@@ -25,7 +25,7 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <td align="center" width="33%">
 <h3>🌐 Web & Backend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br><br>
 </td>
 
 <td align="center" width="33%">
