@@ -1,72 +1,84 @@
-# 👋 Hi, I'm Sanjay Lade
+<h1 align="center">Hi 👋, I'm Sanjay Lade</h1>
+<h3 align="center">B.Tech Student | Artificial Intelligence & Data Science</h3>
 
-🎓 B.Tech Student in Artificial Intelligence & Data Science  
-💡 Passionate about AI/ML, Quantum Technologies, and Cyber Security  
-🚀 Focused on building real-world, future-oriented tech projects
+<p align="center">
+🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech Explorer  
+</p>
 
----
-
-## 🧠 About Me
-
-I am an engineering student specializing in **Artificial Intelligence and Data Science**, deeply interested in building intelligent systems and exploring emerging technologies like **Machine Learning, Quantum Tech, and Cyber Security**.
-
-I enjoy working on innovative project ideas, participating in hackathons, and continuously improving my technical and problem-solving skills.
-
----
-
-## 🛠️ Skills & Tech Stack
-
-**Programming Languages:**  
-Python, Java, JavaScript, C/C++ (learning & practicing)
-
-**AI / Data Science:**  
-NumPy, Pandas, scikit-learn, Machine Learning fundamentals
-
-**Web & Backend:**  
-HTML, CSS, JavaScript, Node.js (learning), Flask (basics)
-
-**Databases & Tools:**  
-MongoDB, MySQL, Git, GitHub, VS Code, Linux (basics)
-
-**Core Concepts:**  
-Data Structures & Algorithms, OOP, DBMS, Problem Solving
+<p align="center">
+<a href="https://github.com/your-username">
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧠 About Me  
+I’m an engineering student specializing in **Artificial Intelligence & Data Science**, focused on building **real-world, future-oriented projects**.  
+I enjoy working on **AI systems, hackathons, and experimental tech projects** while continuously improving my problem-solving and development skills.
+
+---
+
+## 🛠️ Tech Stack  
+
+### 👨‍💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+</p>
+
+### 🤖 AI / Data Science  
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+• NumPy • Pandas • scikit-learn • Machine Learning  
+
+### 🌐 Web & Backend  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,flask" />
+</p>
+
+### 🗄️ Database & Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
 
 🔹 **Academic Drift Detector**  
-Detects early academic performance decline using behavioral and study data.  
-Tech: Python, ML, MongoDB, Flask
+Early prediction of academic performance decline using ML  
+`Python • Machine Learning • Flask • MongoDB`
 
 🔹 **Society Management System**  
-Manages society records, maintenance tracking, and feedback system.  
-Tech: Java, Database, OOP
+Society records, maintenance tracking & feedback system  
+`Java • OOP • Database`
 
 🔹 **SkillSight (Hackathon Project)**  
-AI-powered skill verification platform with live proctoring concept.  
-Tech: Python, AI, Computer Vision, Web
+AI-powered skill verification with proctoring concept  
+`Python • AI • Computer Vision • Web`
 
-🔹 **Machine Learning Practice Models**  
-Student marks prediction, basic ML models, data analysis experiments.
-
----
-
-## 🏆 Activities
-
-- Hackathon participant  
-- Building continuous AI & ML projects  
-- Preparing for advanced tech competitions & internships
+🔹 **ML Practice Models**  
+Student marks prediction & data analysis projects  
 
 ---
 
-## 🌱 Currently Focusing On
-
-- Strengthening Data Structures & Algorithms  
-- Building strong Machine Learning foundations  
-- Developing AI-powered real-world projects  
-- Exploring Quantum Computing & Cyber Security basics
+## 🌱 Currently Focusing On  
+✔ Data Structures & Algorithms  
+✔ Strong Machine Learning foundations  
+✔ AI-powered real-world systems  
+✔ Quantum Computing & Cyber Security basics  
 
 ---
 
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me.
+## 🏆 Activities  
+• Hackathon participant  
+• Continuous project building  
+• Preparing for internships & advanced competitions  
+
+---
+
+<p align="center">
+⭐ If you find my work interesting, explore my repositories and connect with me.
+</p>
