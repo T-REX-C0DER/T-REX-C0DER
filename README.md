@@ -30,7 +30,7 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <td align="center" width="33%">
 <h3>🗄️ Database & Tools</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,linux" /><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" /><br><br>
 </td>
 
 </tr>
