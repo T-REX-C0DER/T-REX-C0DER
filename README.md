@@ -2,18 +2,13 @@
 <h3 align="center">B.Tech Student | Artificial Intelligence & Data Science</h3>
 
 <p align="center">
-  🚀 Aspiring AI Engineer &nbsp;•&nbsp; 🤖 Machine Learning &nbsp;•&nbsp; 🔐 Cyber Security &nbsp;•&nbsp; ⚛️ Quantum Tech
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,mongodb,git" />
+🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech  
 </p>
 
 ---
 
 ## 🧠 About Me
-
-AI & Data Science engineering student passionate about building **real-world intelligent systems** and exploring **future technologies**.  
+AI & Data Science engineering student focused on building **real-world intelligent systems** and exploring **future technologies**.  
 Currently strengthening **Machine Learning, problem-solving, and project development**.
 
 ---
@@ -25,34 +20,17 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <td align="center" width="33%">
 <h3>👨‍💻 Languages</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" style="margin:10px;"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" /><br><br>
 </td>
 
 <td align="center" width="33%">
 <h3>🌐 Web & Backend</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="42" style="margin:10px;"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br><br>
 </td>
 
 <td align="center" width="33%">
 <h3>🗄️ Database & Tools</h3>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" style="margin:10px;"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" /><br><br>
 </td>
 
 </tr>
@@ -61,7 +39,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 ---
 
 ## 🚀 Projects
-
 🔹 **Academic Drift Detector** – ML-based academic performance prediction  
 🔹 **Society Management System** – Records, maintenance & feedback system  
 🔹 **SkillSight (Hackathon)** – AI skill verification platform  
@@ -70,7 +47,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 ---
 
 ## 🌱 Currently Working On
-
 • Data Structures & Algorithms  
 • Machine Learning foundations  
 • AI-powered real-world projects  
@@ -79,5 +55,5 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 ---
 
 <p align="center">
-  ⭐ Explore my repositories and feel free to connect.
+⭐ Explore my repositories and feel free to connect.
 </p>
