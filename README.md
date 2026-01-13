@@ -43,11 +43,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 <h2>📊 GitHub Performance</h2>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-REX-C0DER&layout=compact&theme=tokyonight&hide_border=true"/>
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-REX-C0DER&theme=tokyonight&utcOffset=5.5"/>
 </p>
@@ -83,10 +78,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 </p>
 
 ---
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=T-REX-C0DER&icon=0&color=0"/>
-</p>
 
 <p align="center">
 ⭐ Explore my repositories and feel free to connect.
