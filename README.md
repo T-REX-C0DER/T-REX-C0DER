@@ -53,21 +53,44 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 • Quantum & Cyber Security basics  
 
 ---
-<p align = "center"> 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=T-REX-C0DER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-REX-C0DER&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">📊 GitHub Performance</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=T-REX-C0DER&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=dark&hide_border=false" height="170"/>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-REX-C0DER&theme=dark&hide_border=false&layout=compact" height="150"/>
+</p>
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=T-REX-C0DER&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Summary</h2>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=github_dark" />
+</p>
+
+---
+
+<h2 align="center">✍️ Developer Quote</h2>
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://visitcount.itsvg.in/api?id=T-REX-C0DER&icon=0&color=0"/>
+</p>
+
 <p align="center">
 ⭐ Explore my repositories and feel free to connect.
 </p>
