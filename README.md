@@ -63,6 +63,13 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 • Quantum & Cyber Security basics  
 
 ---
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T-REX-C0DER/T-REX-C0DER/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 <h2>✍️ Developer Quote</h2>
 
