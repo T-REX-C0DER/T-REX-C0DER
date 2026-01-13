@@ -43,10 +43,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 <h2>📊 GitHub Performance</h2>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-REX-C0DER&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
 </p>
 
