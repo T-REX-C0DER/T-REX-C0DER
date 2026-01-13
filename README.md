@@ -66,7 +66,7 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <h2>✍️ Developer Quote</h2>
 
-<p align="center">
+<p>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
