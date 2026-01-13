@@ -50,7 +50,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <h2>🚀 Projects</h2>
 
-🔹 **Academic Drift Detector** – ML-based academic performance prediction  
 🔹 **Society Management System** – Records, maintenance & feedback system  
 🔹 **SkillSight (Hackathon)** – AI skill verification platform  
 🔹 **ML Practice Models** – Prediction & data analysis projects  
@@ -61,7 +60,6 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 • Data Structures & Algorithms  
 • Machine Learning foundations  
-• AI-powered real-world projects  
 • Quantum & Cyber Security basics  
 
 ---
@@ -77,4 +75,3 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 <p align="center">
 ⭐ Explore my repositories and feel free to connect.
 </p>
-
