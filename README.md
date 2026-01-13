@@ -5,6 +5,10 @@
 🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech  
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Building+Real-World+Projects;Growing+Every+Day"/>
+</p>
+
 ---
 
 ## 🧠 About Me
@@ -17,28 +21,45 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 <table align="center">
 <tr>
-
 <td align="center" width="33%">
 <h3>👨‍💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
 </td>
 
 <td align="center" width="33%">
 <h3>🌐 Web & Backend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
 </td>
 
 <td align="center" width="33%">
 <h3>🗄️ Database & Tools</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" /><br><br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" />
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🚀 Projects
+<h2 align="center">📊 GitHub Performance</h2>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-REX-C0DER&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=T-REX-C0DER&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Projects</h2>
+
 🔹 **Academic Drift Detector** – ML-based academic performance prediction  
 🔹 **Society Management System** – Records, maintenance & feedback system  
 🔹 **SkillSight (Hackathon)** – AI skill verification platform  
@@ -46,36 +67,12 @@ Currently strengthening **Machine Learning, problem-solving, and project develop
 
 ---
 
-## 🌱 Currently Working On
+<h2 align="center">🌱 Currently Working On</h2>
+
 • Data Structures & Algorithms  
 • Machine Learning foundations  
 • AI-powered real-world projects  
 • Quantum & Cyber Security basics  
-
----
-
-<h2 align="center">📊 GitHub Performance</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=dark&hide_border=false" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T-REX-C0DER&theme=dark&hide_border=false&layout=compact" height="150"/>
-</p>
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=T-REX-C0DER&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<h2 align="center">🔥 Contribution Summary</h2>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=github_dark" />
-</p>
 
 ---
 
