@@ -82,16 +82,6 @@ I focus on **Machine Learning, strong fundamentals, scalable projects, and probl
 
 ---
 
-## 🏆 Achievements & Activity
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=T-REX-C0DER&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216649447-b83f0e24-7bba-4a4b-b43b-2b4c8ec6d6d4.gif" width="100%"/>
-
 ## 🚀 Highlighted Projects
 
 🔹 **Society Management System**  
@@ -131,6 +121,4 @@ Prediction systems, analysis models & experimental ML projects.
 </p>
 
 ---
-
-<h2 align="center">⚡ “Build systems that think.”</h2>
 <p align="center">⭐ Explore my repositories and watch this space evolve.</p>
