@@ -1,77 +1,127 @@
-<h1 align="center">⚡ Crafting Intelligence with Code — I'm Sanjay Lade</h1>
-<h3 align="center">B.Tech Student | Artificial Intelligence & Data Science</h3>
+<div align="center">
 
-<p align="center">
-🚀 Aspiring AI Engineer | 🤖 Machine Learning | 🔐 Cyber Security | ⚛️ Quantum Tech  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7A00FF&height=220&section=header&text=Sanjay%20Lade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<h3>Engineering Intelligence | AI • Data • Systems</h3>
+
+<p>
+🚀 AI & Data Science Engineer in the making <br>
+🤖 Machine Learning • 🧠 Intelligent Systems • 🔐 Cyber • ⚛️ Quantum
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Building+Real-World+Projects;Growing+Every+Day"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Real-World+Intelligent+Systems;AI+%7C+Data+Science+%7C+System+Design;Turning+Ideas+into+Scalable+Tech;Learning+Deep.+Building+Hard.+Thinking+Long-Term."/>
+
+</div>
 
 ---
 
 ## 🧠 About Me
-AI & Data Science engineering student focused on building **real-world intelligent systems** and exploring **future technologies**.  
-Currently strengthening **Machine Learning, problem-solving, and project development**.
+
+AI & Data Science engineering student focused on **engineering real systems**, not just writing scripts.
+
+I’m interested in:
+- Designing **intelligent, data-driven platforms**
+- Applying **machine learning to real operational problems**
+- Exploring **cyber security & quantum computation foundations**
+
+I care about **depth over noise**: strong fundamentals, scalable design, and long-term thinking.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧬 Engineering Stack
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<h3>👨‍💻 Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp" />
+<h3>🧠 AI / Core</h3>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br>
+Machine Learning • Data Structures • Algorithms
 </td>
 
 <td align="center" width="33%">
-<h3>🌐 Web & Backend</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+<h3>🌐 Systems / Web</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br>
+Backend Logic • APIs • Full-Stack Foundations
 </td>
 
 <td align="center" width="33%">
-<h3>🗄️ Database & Tools</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" />
+<h3>🗄️ Data / Tools</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" /><br>
+Databases • Version Control • OS Fundamentals
 </td>
 </tr>
 </table>
 
 ---
 
-<h2>📊 GitHub Performance</h2>
+## 🏗️ Flagship Projects
+
+🚀 **Society Management System**  
+→ Real-world data system for records, maintenance & structured feedback  
+
+🧠 **SkillSight (Hackathon)**  
+→ AI-based skill verification and assessment platform  
+
+📊 **Machine Learning Lab**  
+→ Prediction systems, data analysis, and experimental ML models  
+
+⚠️ Private repos are intentional. Documentation & system design matter more than leaked code.
+
+---
+
+## 📊 Engineering Activity
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
 </p>
 
 ---
 
-<h2>🚀 Projects</h2>
+## 🧩 How I Think (Engineering Philosophy)
 
-🔹 **Society Management System** – Records, maintenance & feedback system  
-🔹 **SkillSight (Hackathon)** – AI skill verification platform  
-🔹 **ML Practice Models** – Prediction & data analysis projects  
-
----
-
-<h2>🌱 Currently Working On</h2>
-
-• Data Structures & Algorithms  
-• Machine Learning foundations  
-• Quantum & Cyber Security basics  
+• Systems > scripts  
+• Fundamentals before frameworks  
+• Build → test → break → redesign  
+• Long-term skill compounding over short-term hype  
+• Real problems > tutorial projects  
 
 ---
 
-<h2>✍️ Developer Quote</h2>
+## 🌱 Current Focus
 
-<p>
+- Advanced Data Structures & Algorithms  
+- Machine Learning engineering foundations  
+- Secure system design  
+- Quantum computing basics  
+- Building long-term scalable projects  
+
+---
+
+## 🐍 Contribution Flow
+
+![snake gif](https://github.com/T-REX-C0DER/T-REX-C0DER/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🧠 Developer Quote
+
+<p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-<p align="center">
-⭐ Explore my repositories and feel free to connect.
-</p>
+<div align="center">
+
+⭐ Engineering intelligent systems.  
+📬 Open to collaborations, research, and meaningful tech.
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7A00FF,100:00F7FF&height=120&section=footer"/>
+
