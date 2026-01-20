@@ -112,4 +112,3 @@ I care about **depth over noise**: strong fundamentals, scalable design, and lon
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=100&section=footer"/>
 
-In this repo  make the water effects looking more good and unique also change the color into dark black + silver sombination 
