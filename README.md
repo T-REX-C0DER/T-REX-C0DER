@@ -1,6 +1,8 @@
+<P align = "center"> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=320&section=header&text=Sanjay%20Lade&fontSize=60&fontColor=F5F5F5&animation=twinkling&fontAlignY=36&desc=Engineering%20Intelligence%20%7C%20AI%20•%20Data%20•%20Systems&descAlignY=60&descSize=18"/>
 
 <h3>AI • Data Science • Intelligent Systems Engineering</h3>
+</p>
 
 <p>
 🚀 AI & Data Science Engineer in the making <br>
