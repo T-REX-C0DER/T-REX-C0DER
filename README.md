@@ -72,11 +72,6 @@ Databases • Version Control • OS Fundamentals
 ## 📊 Engineering Activity
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T-REX-C0DER&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=T-REX-C0DER&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
 </p>
 
@@ -100,11 +95,6 @@ Databases • Version Control • OS Fundamentals
 - Quantum computing basics  
 - Building long-term scalable projects  
 
----
-
-## 🐍 Contribution Flow
-
-![snake gif](https://github.com/T-REX-C0DER/T-REX-C0DER/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
