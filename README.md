@@ -1,8 +1,10 @@
-<P align = "center"> 
+<div align="center">
+
+<!-- ================= HERO : LIQUID METAL HEADER ================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=320&section=header&text=Sanjay%20Lade&fontSize=60&fontColor=F5F5F5&animation=twinkling&fontAlignY=36&desc=Engineering%20Intelligence%20%7C%20AI%20•%20Data%20•%20Systems&descAlignY=60&descSize=18"/>
 
+
 <h3>AI • Data Science • Intelligent Systems Engineering</h3>
-</p>
 
 <p>
 🚀 AI & Data Science Engineer in the making <br>
@@ -11,13 +13,20 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2300&pause=700&color=C0C0C0&center=true&vCenter=true&width=720&lines=Engineering+Real-World+Intelligent+Systems;AI+%7C+Data+Science+%7C+System+Design;Liquid-Metal+Mindset+%7C+Solid+Fundamentals;Learning+Deep.+Building+Hard.+Thinking+Long-Term."/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2300&pause=700&color=DADADA&center=true&vCenter=true&width=750&lines=Engineering+Real-World+Intelligent+Systems;AI+%7C+Data+Science+%7C+System+Design;Liquid-Metal+Mindset+%7C+Solid+Fundamentals;Learning+Deep.+Building+Hard.+Thinking+Long-Term."/>
 
 <br><br>
+
+<!-- ========== SUBTLE LIQUID DIVIDER ========== -->
+<p align="center">
+<img width="88%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 </div>
 
 ---
+
+<br>
 
 ## 🧠 About Me
 
@@ -45,7 +54,7 @@ I prioritize **depth over noise** — fundamentals, system thinking, and long-te
 <h3>🧠 AI / Core</h3>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 <br><br>
-Machine Learning • DSA • Algorithms
+Machine Learning • Data Structures • Algorithms
 </td>
 
 <td align="center" width="33%">
@@ -90,7 +99,7 @@ Databases • Version Control • OS Fundamentals
 <br>
 
 <p align="center">
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T-REX-C0DER&theme=tokyonight"/>
 </p>
 
 ---
@@ -142,6 +151,6 @@ Databases • Version Control • OS Fundamentals
 
 <br>
 
-<!-- ========== FOOTER : LIQUID METAL CLOSING ========== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:1A1A1A,75:4F4F4F,100:C0C0C0&height=140&section=footer&animation=twinkling"/>
+<!-- ================= FOOTER : DARK LIQUID CLOSE ================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:050505,40:121212,70:1C1C1C,100:050505&height=90&section=footer"/>
 
