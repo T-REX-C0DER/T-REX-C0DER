@@ -65,10 +65,10 @@ I care about **depth over noise**: strong fundamentals, scalable design, and lon
 
 ---
 
-## 📊 Engineering Activity
+## 📊 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=T-REX-C0DER&bg_color=0d1117&color=00F7FF&line=00C2FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=T-REX-C0DER&bg_color=0d1117&color=00F7FF&line=00C2FF&point=FFFFFF&area_color=00F7FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph"/>
 </div>
 
 
