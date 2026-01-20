@@ -9,10 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Building+Real-World+Projects;Growing+Every+Day"/>
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=T-REX-C0DER&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🧠 About Me
