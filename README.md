@@ -35,19 +35,16 @@ I care about **depth over noise**: strong fundamentals, scalable design, and lon
 <td align="center" width="33%">
 <h3>🧠 AI / Core</h3>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp" /><br>
-Machine Learning • Data Structures • Algorithms
 </td>
 
 <td align="center" width="33%">
 <h3>🌐 Systems / Web</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" /><br>
-Backend Logic • APIs • Full-Stack Foundations
 </td>
 
 <td align="center" width="33%">
 <h3>🗄️ Data / Tools</h3>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,linux" /><br>
-Databases • Version Control • OS Fundamentals
 </td>
 </tr>
 </table>
