@@ -62,7 +62,6 @@ I care about **depth over noise**: strong fundamentals, scalable design, and lon
 📊 **Machine Learning Lab**  
 → Prediction systems, data analysis, and experimental ML models  
 
-⚠️ Private repos are intentional. Documentation & system design matter more than leaked code.
 
 ---
 
