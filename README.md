@@ -1,9 +1,6 @@
-<div align="center">
-
-<!-- ========== HERO : LIQUID METAL HEADER ========== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:1A1A1A,75:4F4F4F,100:C0C0C0&height=270&section=header&text=Sanjay%20Lade&fontSize=58&fontColor=EDEDED&animation=twinkling&fontAlignY=36&desc=Engineering%20Intelligence%20%7C%20AI%20•%20Data%20•%20Systems&descAlignY=58&descSize=18"/>
-
-<br><br>
+<p align="center">
+<img width="90%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</p>
 
 <h3>AI • Data Science • Intelligent Systems Engineering</h3>
 
