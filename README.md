@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=150&section=header&text=Sanjay%20Lade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=210&section=header&text=Sanjay%20Lade&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h3>Engineering Intelligence | AI • Data • Systems</h3>
 
@@ -109,5 +109,5 @@ I care about **depth over noise**: strong fundamentals, scalable design, and lon
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,25:121212,55:2C2C2C,80:7A7A7A,100:DADADA&height=150&section=footer"/>
 
