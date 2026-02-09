@@ -70,12 +70,6 @@ Predictive models, analytics pipelines & experimental ML systems
 <hr width="85%"/>
 
 <!-- PHILOSOPHY -->
-<h3>🧩 Engineering Philosophy</h3>
-
-<p align="center">
-Systems > scripts • Fundamentals before frameworks • Build → break → redesign<br>
-Long-term skill compounding over short-term hype • Real problems over tutorials
-</p>
 
 <hr width="85%"/>
 
