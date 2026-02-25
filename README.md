@@ -37,17 +37,6 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
 
 ---
 
-## 🏆 GitHub Trophies & Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 🏗️ Flagship Projects
 - **🚀 Society Management System**  
   A comprehensive data platform for managing records, maintenance, and feedback. [View Repo](https://github.com/YOUR_USERNAME/society-management-system)
@@ -57,13 +46,6 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
   
 - **📊 Machine Learning Lab**  
   Collection of prediction systems, data pipelines, and experimental ML models. [View Repo](https://github.com/YOUR_USERNAME/ml-lab)
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00FFAA&line=00FFAA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</div>
 
 ---
 
@@ -88,13 +70,6 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
 ## 💬 Developer Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-</div>
-
----
-
-## 📊 Visitor Count
-<div align="center">
-  <img src="https://visitor-badge.laobi.letswrite.tw/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_color=black&right_color=green" alt="Visitor Badge"/>
 </div>
 
 ---
