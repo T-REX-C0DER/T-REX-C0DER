@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanjay%20Lade&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Engineering%20Intelligence%20|%20AI%20%E2%80%A2%20Data%20%E2%80%A2%20Systems&descAlignY=55&descAlign=62"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanjay%20Lade&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&descAlignY=55&descAlign=62"/>
   <h3>AI & Data Science Engineer | Building Intelligent Systems</h3>
   <p>🚀 Passionate about real-world AI applications, scalable data platforms, cyber security, and quantum foundations.</p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Engineering+Scalable+AI+Systems;Machine+Learning+%26+Data+Science;Cyber+Security+%26+Quantum+Computing;Depth+Over+Hype;Long-Term+Thinking+in+Tech" alt="Typing SVG" />
