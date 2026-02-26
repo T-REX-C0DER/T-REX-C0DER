@@ -30,7 +30,7 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
     </td>
     <td align="center" width="33%">
       <h3>🗄️ Data / Tools</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,aws" /><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,linux,aws" /><br>
     </td>
   </tr>
 </table>
