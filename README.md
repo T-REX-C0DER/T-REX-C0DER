@@ -62,9 +62,7 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
 - Mastering advanced data structures and algorithms.
 - Deepening machine learning engineering practices.
 - Designing secure systems with cyber best practices.
-- Exploring quantum computing fundamentals.
-- Developing scalable, long-term projects in AI.
-
+- Exploring quantum computing fundamentals
 ---
 
 ## 💬 Developer Quote
