@@ -54,7 +54,6 @@ I prioritize **strong fundamentals**, scalable designs, and thoughtful innovatio
 - **Fundamentals First**: Master basics before diving into frameworks.
 - **Iterate Relentlessly**: Build, test, break, and redesign.
 - **Compound Skills**: Prioritize long-term growth over hype.
-- **Real Impact**: Solve genuine problems, not just tutorials.
 
 ---
 
