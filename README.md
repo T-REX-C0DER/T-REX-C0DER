@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Engineering+Scalable+AI+Systems;Machine+Learning+%26+Data+Science;Cyber+Security+%26+Quantum+Computing;Depth+Over+Hype;Long-Term+Thinking+in+Tech" alt="Typing SVG" />
 </div>
 
+
 ---
 
 ## 🧠 About Me
